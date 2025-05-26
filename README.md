@@ -37,6 +37,11 @@
  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=Jerry-Guo1020&layout=compact&theme=radical" />
 </p>
 
+![GitHub Stats](https://github-readme-stats-git-master-rstaa.vercel.app/api?username=Jerry-Guo1020&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=Jerry-Guo1020&layout=compact&theme=radical)
+
+
 ---
 
 ### 🧮 Visitors
