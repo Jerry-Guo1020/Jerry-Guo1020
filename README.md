@@ -30,11 +30,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=Jerry-Guo1020&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jerry-Guo1020&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=Jerry-Guo1020&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Guo1020&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
